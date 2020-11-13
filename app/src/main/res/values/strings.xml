@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!--    Login screen constants-->
+    <string name="login_email_text">Email</string>
+    <string name="login_password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="new_login_text">New Login</string>
+
+    <!--    Welcome Screen constants-->
+    <string name="welcome_text">Welcome!</string>
+    <string name="welcome_user_text">To Shoe Store</string>
+
+<!--    Instruction Screen constants-->
+    <string name="go_ahead_text">Go Ahead</string>
+    <string name="create_text">Create your Shoe Records and view them together</string>
+
+    <!--    Detail Screen constants-->
+    <string name="name_text">Shoe Name</string>
+    <string name="size_text">Shoe Size</string>
+    <string name="company_text">Shoe Company</string>
+    <string name="description_text">Shoe Description</string>
+    <string name="name_format">Name : %s</string>
+    <string name="company_format">Company : %s</string>
+    <string name="size_format">Size : %s</string>
+    <string name="description_format">Description : %s</string>
+
+    <string name="next_text">Next</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="save_text">Save</string>
+    <string name="logout">Logout</string>
+
+</resources>
